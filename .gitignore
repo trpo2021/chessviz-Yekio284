@@ -1,0 +1,8 @@
+*.out
+main
+*.o
+.vscode
+*.d
+bin/*
+!bin/.keep
+*.a
